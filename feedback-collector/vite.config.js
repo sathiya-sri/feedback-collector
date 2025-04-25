@@ -25,8 +25,5 @@ export default defineConfig({
     port: 4173, // Preview port
     strictPort: true,
   },
-  // Netlify Function compatibility
-  define: {
-    'process.env': process.env,
-  },
+ 
 });
