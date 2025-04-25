@@ -2,7 +2,8 @@
 
 A single-page application for collecting user feedback with an admin dashboard, built with React, Tailwind CSS, and Netlify Functions.
 
-![App Screenshot](./screenshot.png) <!-- Add your screenshot if available -->
+![image](https://github.com/user-attachments/assets/b3a964a7-0f9f-4b0a-92c6-88894f8b9ef5)
+
 
 ## Features
 
